@@ -1,0 +1,2 @@
+# asterix
+Asterix Ghost theme
